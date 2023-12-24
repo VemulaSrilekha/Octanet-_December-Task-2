@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f7f7f7;
+    background-color: ##66095d;
     }
     
     .todo-container {
@@ -27,7 +27,7 @@ body {
     
     button {
     padding: 8px 16px;
-    background-color: red;
+    background-color: yellow;
     color: white;
     border: none;
     cursor: pointer;
@@ -36,7 +36,7 @@ body {
     }
     
     button:hover {
-    background-color: Red;
+    background-color: yellow;
     }
     
     ul {
